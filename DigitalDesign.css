@@ -1,0 +1,46 @@
+body{
+  background-color:#028090
+}
+h1{
+  font-size:400%;
+    letter-spacing:6px;
+  color: #E4FDE1;
+  text-decoration: underline;
+  text-decoration-color: #E4FDE1;
+  font-family: "Lucida Console";
+ // position:fixed;
+}
+p{
+  font-size:200%;
+  color: #F45B69;
+  font-family: "Times New Roman";
+}
+
+img{
+  border-style:double;
+  border-color:#E4FDE1;
+}
+iframe{
+  
+}
+ul{
+  text-align: center;
+  list-style-type: none;
+  position: fixed;
+}
+li{
+  float:left;
+}
+li a{
+  padding:20px;
+  color: #FFF275;
+  text-decoration:none;
+  font-family: "Lucida Console";
+    border-style:dashed;
+  border-color:#D9F9A5;
+  
+}
+li a:hover{
+  background-color: #87C38F;
+  color:white;
+}
